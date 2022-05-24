@@ -1,0 +1,6 @@
+Vu Bao Tram;Nu;20;8.00
+Nguyen Van A;Nam;20;8.00
+Ly Thi Xua;Nu;20;5.8
+Vu A Pao;Nam;20;5.5
+Nguyen Van C;Nam;20;9.00
+Vu A Thang;Nam;20;9.50
